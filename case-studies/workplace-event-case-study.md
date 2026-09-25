@@ -10,7 +10,7 @@ It is based on the type of company events and team gatherings I have supported p
 
 A successful workplace event requires several moving pieces to come together at the right time.
 
-Depending on the event, this may include:
+Depending on the event, this might include:
 
 * Budget
 * Venue or meeting space
