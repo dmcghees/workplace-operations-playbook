@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a practical workplace operations portfolio covering the systems, procedures, tools, and documentation used to support a well run workplace.
+This repository is a professional operations portfolio containing practical guides, reusable tools, management templates, and case studies focused on workplace operations, business processes, project coordination, and operational improvement.
 
 It demonstrates how I approach day to day operations as well as larger responsibilities such as vendor management, budgeting, employee onboarding, office moves, facilities coordination, events, process improvement, reporting, and operational performance.
 
@@ -75,6 +75,28 @@ A reference guide for measuring facilities performance, onboarding readiness, ve
 ### [Office Move and Construction Coordination](office-move-construction-coordination.md)
 
 A comprehensive framework for workplace moves and construction projects covering requirements gathering, plan review, vendors, timelines, employee communication, technology, move day coordination, punch lists, and post project support.
+
+---
+
+# Case Studies
+
+These case studies show how I apply workplace operations, project coordination, process improvement, and cross functional problem solving in realistic scenarios.
+
+### [Office Move and Workplace Readiness](case-studies/office-move-case-study.md)
+
+An end to end example of coordinating an office move across facilities, vendors, technology, employee communication, workplace readiness, move day support, and project closeout.
+
+### [Improving New Hire Onboarding Readiness](case-studies/new-hire-onboarding-case-study.md)
+
+A process improvement case study focused on coordinating Workplace Operations, IT, Security, HR, and hiring managers to improve Day One readiness and reduce onboarding issues.
+
+### [Planning and Executing a Workplace Event](case-studies/workplace-event-case-study.md)
+
+A practical example of managing event logistics, vendors, catering, budget, technology, attendees, contingency planning, and post event review.
+
+### [Process Improvement Through SOP Creation](case-studies/sop-process-improvement-case-study.md)
+
+A case study showing how an inconsistent operational process can be analyzed, redesigned, documented, tested, and turned into a repeatable Standard Operating Procedure.
 
 ---
 
