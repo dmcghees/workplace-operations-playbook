@@ -68,6 +68,10 @@ Guidance for tracking expenses, reviewing budget versus actual spending, monitor
 
 A reference guide for measuring facilities performance, onboarding readiness, vendor reliability, inventory, budget, projects, service levels, and process improvement.
 
+### [Lean Operations for Small Teams](lean-operations-for-small-teams.md)
+
+A practical guide for building lightweight operational systems in small companies and growing teams, including ownership, documentation, vendors, onboarding, budgets, shared requests, risk coverage, and deciding when additional structure is actually necessary.
+
 ---
 
 ## Workplace Projects
