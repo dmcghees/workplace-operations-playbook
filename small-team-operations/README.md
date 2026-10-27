@@ -20,6 +20,10 @@ The guide focuses on using the simplest process or tool that solves the problem 
 
 A phased roadmap for entering a small or growing organization and building a stronger operations foundation.
 
+### [Single Point of Failure Risk](single-point-of-failure-risk.md)
+
+A practical guide for identifying operational dependencies, documenting critical knowledge, creating backup ownership, reviewing account and vendor risk, and building continuity without overengineering small-team processes.
+
 The guide covers:
 
 * Understanding the organization
